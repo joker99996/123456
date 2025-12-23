@@ -8,3 +8,4 @@ lunch = 100
 dinner = 150
 today_expenses = [breakfast, lunch, dinner]
 total = daily_expense(today_expenses)
+print("今日總花費為：", total, "元")
